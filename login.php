@@ -54,6 +54,9 @@ if(mysqli_num_rows($results)>0){
 							<input name="login" type="submit" class="button is-medium is-info is-fullwidth" value="Login"> 
 						</form>
 					</div>
+					<p>
+						<a href="./register.php">Register</a>
+					</p>
 				</div>
 
 			</div>
